@@ -1,1 +1,2 @@
 # Neural-style-transfer-using-tensorflow-hub
+Neural Style Transfer is an optimisation technique. Its implementation involves the use of two images: one representing the main content (content image) and one representing the style (style reference image). The implementation of neural style transfer requires the use of CNNs. But to reduce the complexity, I have used tensorflow hub which has a pre-trained model for this purpose. 
